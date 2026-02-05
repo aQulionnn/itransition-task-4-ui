@@ -1,0 +1,13 @@
+.root {
+    padding: 24px;
+}
+
+.toolbar {
+    display: flex;
+    gap: 12px;
+    margin-bottom: 12px;
+}
+
+.counter {
+    margin-left: auto;
+}
