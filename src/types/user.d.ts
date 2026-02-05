@@ -8,11 +8,11 @@ type User = {
 }
 
 type BlockUsersRequest = {
-    ids: string[]
+    userIds: string[]
 }
 
 type UnblockUsersRequest = {
-    ids: string[]
+    userIds: string[]
 }
 
 type DeleteUsersRequest = {
